@@ -15,6 +15,8 @@ Affiliate session of the ITU-UNDP Digital@UNGA programme
 - Gilles Fayad, Director of Development, AI Commons
 - Juliana Cafik, Standards and Solutions Architect, Independent Expert
 
+A fifth panelist will be announced once confirmed.
+
 Moderator: Oleh Vasylenko, Director, Management Company Elixir LLC; Associate Member, ITU-T Study Group 17
 
 ## Three questions
