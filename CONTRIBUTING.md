@@ -1,11 +1,22 @@
 # Contributing
 
-This repository accepts three forms of collaboration. Each is proposed as a post in [Discussions → Collaboration](../../discussions/categories/collaboration).
+This repository is open to people and organizations interested in making AI agents more trustworthy, accountable and useful in real-world settings.
 
-1. **Contribution to standards work** — for people with relevant expertise who want to contribute to the open work under way in ITU-T.
-2. **Pilot and validation partnerships** — institutions willing to test verification mechanisms for agent identity, delegated authority and provenance in a real operational setting; independent academic validation is a particular priority.
-3. **Coordination across communities** — standards organizations and policy communities that do not routinely talk to one another.
+Start a post in [Discussions → Collaboration](../../discussions/categories/collaboration) if you want to collaborate in one of these areas:
 
-Describe your proposal by the task and the institutional context; commercial terms are not discussed here. You will hear back by email within ten working days.
+1. **Research and evidence** — studies, evaluations, incident analysis, measurement methods, datasets, or independent validation.
+2. **Pilots and real-world testing** — testing how AI agents can be identified, authorized, monitored and reviewed in operational environments.
+3. **Policy, governance and public-interest work** — accountability, consumer protection, institutional responsibility, inclusion, access and public trust.
+4. **Standards and interoperability** — technical or institutional approaches that help different systems, organizations and jurisdictions verify AI-agent actions consistently.
+5. **Cross-sector collaboration** — projects that connect technical, legal, policy, academic, business and civil-society perspectives.
 
-No forms, questionnaires or collection of personal data take place in this repository.
+When you post, please describe:
+
+- the problem or use case;
+- what you would like to explore or test;
+- what organization or perspective you represent, if relevant;
+- what kind of collaboration you are looking for.
+
+Early-stage ideas are welcome. You do not need to have a finished proposal or a technical background.
+
+Do not post personal contact lists, private registration data, confidential commercial information, unpublished patent claims, invention maps, or other material that is not intended for public disclosure.

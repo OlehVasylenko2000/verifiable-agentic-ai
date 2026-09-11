@@ -24,11 +24,13 @@ Contact: oleg@vasylenko.tel. Website: [vasylenko.tel](https://vasylenko.tel).
 
 - Ask a question in [Discussions → Questions](../../discussions/categories/questions).
 - Vote in [Discussions → Polls](../../discussions/categories/polls).
-- Propose a pilot, a validation study or a standards contribution in [Discussions → Collaboration](../../discussions/categories/collaboration) — see [CONTRIBUTING.md](CONTRIBUTING.md).
+- Explore or propose collaboration in [Discussions → Collaboration](../../discussions/categories/collaboration) — research and evidence, pilots and real-world testing, policy and governance, standards and interoperability, or cross-sector work. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Where this continues
 
-The ITU-T Focus Group on Trust and Identity for Humans and Agentic AI (FG-TIDA) is open to anyone, free of charge, without ITU membership. Its candidate themes are developed in public on GitHub. The second question above — accountability and attribution after an agent has acted — is an open candidate theme there, and contributions are welcome: https://github.com/FG-TIDA/themes/issues/1
+The ITU-T Focus Group on Trust and Identity for Humans and Agentic AI (FG-TIDA) is open to anyone, free of charge, without ITU membership. Its candidate themes are developed in public on GitHub.
+
+A related open candidate theme there is **Accountability and attribution after an agent has acted**, proposed by the organizer of this session. Contributions are welcome before and after the session: https://github.com/FG-TIDA/themes/issues/1
 
 ## Standards
 

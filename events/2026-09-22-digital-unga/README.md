@@ -31,9 +31,9 @@ The session closes on the question of what an inclusive trust layer requires in 
 
 ## How to take part
 
-- Ask a question in the pinned post in [Discussions → Questions](../../../../discussions/categories/questions).
-- Vote in the poll in [Discussions → Polls](../../../../discussions/categories/polls).
-- Join the open thread in [Discussions → Discussion](../../../../discussions/categories/discussion).
+- Ask the panel a question in [Discussion #2](../../../../discussions/2). Questions may be technical, practical, legal, policy-related, business-focused, or about inclusion, safety and public trust.
+- Vote in [Discussion #5](../../../../discussions/5) on which of the four questions is most urgent for your institution.
+- Explore or propose longer-term collaboration in [Discussion #4](../../../../discussions/4).
 
 ## Session record
 
