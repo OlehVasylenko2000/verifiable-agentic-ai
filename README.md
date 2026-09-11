@@ -30,7 +30,7 @@ Contact: oleg@vasylenko.tel. Website: [vasylenko.tel](https://vasylenko.tel).
 
 The ITU-T Focus Group on Trust and Identity for Humans and Agentic AI (FG-TIDA) is open to anyone, free of charge, without ITU membership. Its candidate themes are developed in public on GitHub.
 
-A related open candidate theme there is **Accountability and attribution after an agent has acted**, proposed by the organizer of this session. Contributions are welcome before and after the session: https://github.com/FG-TIDA/themes/issues/1
+A related open candidate theme there is **Accountability and attribution after an agent has acted**. Contributions are welcome before and after the session: https://github.com/FG-TIDA/themes/issues/1
 
 ## Standards
 
