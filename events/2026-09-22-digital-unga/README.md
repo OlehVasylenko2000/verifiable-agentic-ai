@@ -19,7 +19,7 @@ A fifth panelist will be announced once confirmed.
 
 Moderator: Oleh Vasylenko, Director, Management Company Elixir LLC; Associate Member, ITU-T Study Group 17
 
-## Three questions
+## Four questions
 
 Who is this agent? Not what it calls itself, but an identity that a third party can verify without having to trust the agent or the platform running it.
 
@@ -27,7 +27,7 @@ On whose authority is it acting? Agents increasingly act on behalf of people and
 
 What did it actually do, and what produced its output? After the fact, an independent party must be able to establish what happened and what evidence underlies a generated result.
 
-The session closes on the question of what an inclusive trust layer requires in practice, so that institutions outside the largest platforms and regulatory blocs can take part on equal terms.
+What does an inclusive trust layer require in practice? So that institutions outside the largest platforms and regulatory blocs can take part on equal terms.
 
 ## How to take part
 
