@@ -18,7 +18,7 @@ Contact: oleg@vasylenko.tel. Website: [vasylenko.tel](https://vasylenko.tel).
 
 | Date | Event | Status | Details |
 |---|---|---|---|
-| 22 September 2026 | Verifiable and Accountable AI: Trust Infrastructure for an Inclusive Agentic Era — Affiliate session of the ITU-UNDP Digital@UNGA programme | Upcoming | [events/2026-09-22-digital-unga](events/2026-09-22-digital-unga) |
+| 22 September 2026 | Verifiable and Accountable AI: Trust Infrastructure for an Inclusive Agentic Era — Affiliate session of the ITU-UNDP Digital@UNGA programme | Completed | [events/2026-09-22-digital-unga](events/2026-09-22-digital-unga) |
 
 ## How to take part
 
