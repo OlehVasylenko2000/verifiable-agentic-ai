@@ -19,6 +19,7 @@ Contact: oleg@vasylenko.tel. Website: [vasylenko.tel](https://vasylenko.tel).
 | Date | Event | Status | Details |
 |---|---|---|---|
 | 22 September 2026 | Verifiable and Accountable AI: Trust Infrastructure for an Inclusive Agentic Era — Affiliate session of the ITU-UNDP Digital@UNGA programme | Completed | [events/2026-09-22-digital-unga](events/2026-09-22-digital-unga) |
+| 7 October 2026 | ITU TSB Director's CxO Roundtable 2026, New Delhi — topic presented: post-hoc accountability for autonomous agents | Completed | [events/2026-10-07-itu-cxo-roundtable](events/2026-10-07-itu-cxo-roundtable) |
 
 ## How to take part
 
